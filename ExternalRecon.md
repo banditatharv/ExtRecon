@@ -86,11 +86,11 @@ __Example Response Breakdown:__
 <RealmInfo Success="true">
   <State>4</State>                          <!-- Realm state code -->
   <UserState>1</UserState>                  <!-- User state code -->
-  <Login>USERNAME@payatu.com</Login>        <!-- Queried identifier -->
+  <Login>USERNAME@domain.com</Login>        <!-- Queried identifier -->
   <NameSpaceType>Managed</NameSpaceType>    <!-- 🔑 AUTH MODEL KEY -->
-  <DomainName>payatu.com</DomainName>       <!-- Verified domain -->
+  <DomainName>domain.com</DomainName>       <!-- Verified domain -->
   <IsFederatedNS>false</IsFederatedNS>      <!-- 🔑 FEDERATION FLAG -->
-  <FederationBrandName>Payatu</FederationBrandName>
+  <FederationBrandName>domain</FederationBrandName>
   <CloudInstanceName>microsoftonline.com</CloudInstanceName>
 </RealmInfo>
 ```
@@ -206,7 +206,7 @@ curl -s -H "Authorization: Bearer ACCESS_TOKEN" \
   "https://graph.microsoft.com/v1.0/domains" | jq
 ```
 __What you'll learn:__
-- Default domain name (e.g., payatu.io)
+- Default domain name (e.g., domain.io)
 - Organization display name
 - Tenant region scope (critical for compliance targeting)
 - MX record (confirms email infrastructure)
