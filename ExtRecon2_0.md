@@ -13,19 +13,18 @@ _The Final Expansion | Public-Source Intelligence Mastery | 2025_
 > ⚠️ Disclaimer: For authorized security testing only. Always obtain written permission. Follow rules of engagement. This document does not contain "secret" or non-public information — only underutilized public-source techniques.
 
 # 📋 Table of Contents
-- 🔄 [What's New in Recon 2.0]()
-- 🐙 [Advanced GitHub & Source Code Recon]()
-- 🕰️ [Wayback Machine & Historical URL Mining]()
-- 📜 [JavaScript File Analysis for Endpoint Discovery]()
-- ☁️ [Azure/Entra ID Enumeration (Post-Patch Methods)]()
-- 🌐 [Multi-Cloud Asset Discovery]()
-- 🔗 [Supply Chain & Third-Party Recon]()
-- 🔌 [API Discovery & Shadow API Enumeration]()
-- 📄 [Document & Metadata Harvesting]()
-- 👥 [Advanced User/Identity Enumeration]()
-- 🤖 [Automation & Intelligence Correlation]()
-- 🧰 [Tool Summary & Quick Reference]()
-- ⚡ [One-Liner Setup Script]()
+- 🔄 [What's New in Recon 2.0](#-whats-new-in-recon-20)
+- 🐙 [Advanced GitHub & Source Code Recon](#-advanced-github--source-code-recon)
+- 🕰️ [Wayback Machine & Historical URL Mining](#️-wayback-machine--historical-url-mining)
+- 📜 [JavaScript File Analysis for Endpoint Discovery](#-javascript-file-analysis-for-endpoint-discovery)
+- 🌐 [Multi-Cloud Asset Discovery](#-multi-cloud-asset-discovery)
+- 🔗 [Supply Chain & Third-Party Recon](#-supply-chain--third-party-recon)
+- 🔌 [API Discovery & Shadow API Enumeration](#-api-discovery--shadow-api-enumeration)
+- 📄 [Document & Metadata Harvesting](#-document--metadata-harvesting)
+- 👥 [Advanced User/Identity Enumeration](#-advanced-useridentity-enumeration)
+- 🤖 [Automation & Intelligence Correlation](#-automation--intelligence-correlation)
+- 🧰 [Tool Summary & Quick Reference](#-tool-summary--quick-reference)
+- ⚡ [One-Liner Setup Script](#-one-liner-setup-script-kalidebian)
 
 # 🔄 What's New in Recon 2.0
 ```bash
