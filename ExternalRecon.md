@@ -198,6 +198,7 @@ curl -s "https://login.microsoftonline.com/TARGET_DOMAIN/.well-known/openid-conf
 
 ## 🔎 Resolve Tenant ID to Organization Name
 Tool: [TenantIDlookup](tenantidlookup.com) (free, no auth)
+
 __Alternative Programmatic Method:__
 ```bash
 # Using Microsoft Graph (requires token, but shows full tenant details)
