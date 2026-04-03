@@ -1,4 +1,4 @@
-# 🔍 External Reconnaissance Playbook for Red Teaming
+# 🔍 External Reconnaissance Playbook
 _Professional Guide | Azure AD Focus | 2025_
 
 ```bash
